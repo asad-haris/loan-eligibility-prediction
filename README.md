@@ -127,6 +127,9 @@ Features include: Gender, Married, Dependents, Education, Self-Employed, Applica
 
 ## Screenshots
 
+<img width="1189" height="821" alt="download (4)" src="https://github.com/user-attachments/assets/1c6655dc-393a-49f6-a796-76b70b73678c" />
+<img width="1489" height="990" alt="download (5)" src="https://github.com/user-attachments/assets/97518673-7632-4199-a633-1232e593a062" />
+<img width="1189" height="490" alt="download (7)" src="https://github.com/user-attachments/assets/5f1aaf0e-070c-46b9-ab6b-4c0afcc1bab6" />
 <!-- Add 2-3 screenshots here -->
 <!-- ![Model Comparison](visualizations/model_comparison.png) -->
 <!-- ![Credit History Impact](visualizations/credit_history_approval.png) -->
